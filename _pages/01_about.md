@@ -8,3 +8,10 @@ About content goes here.
 
 * A list item
 * Another list item
+
+---
+layout: page
+title: owncloud
+permalink: /owncloud/
+---
+test
